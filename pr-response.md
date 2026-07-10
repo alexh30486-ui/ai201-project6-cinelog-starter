@@ -54,6 +54,8 @@ Rebased the feature branch onto `origin/main`. Updated watchlist models and serv
 
 **How I verified:**  
 Confirmed branch history has no merge commits and all tests pass.
+**Ai Usage**
+Ai was used I used Claude to vertify and asked questions. 
 
 ## PR Description
 
