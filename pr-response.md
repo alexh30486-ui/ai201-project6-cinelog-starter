@@ -101,6 +101,8 @@ Copy the content inside the code block into your file. It’s detailed, professi
 
 The final commit history was reviewed and organized to keep each change focused, descriptive, and aligned with conventional commit standards.
 
+![image](https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx)
+
 ```text
 feat: add watchlist model and endpoint
 fix: rename save_to_watchlist to add_to_watchlist
