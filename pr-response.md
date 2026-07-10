@@ -103,8 +103,7 @@ Copy the content inside the code block into your file. It’s detailed, professi
 
 The final commit history was reviewed and organized to keep each change focused, descriptive, and aligned with conventional commit standards.
 
-![image](https://github.com/user-attachments/assets/<img width="733" height="164" alt="Screenshot 2026-07-10 at 3 49 30 PM" src="https://github.com/user-attachments/assets/d352dc97-081e-4859-bce2-202875eb275f" />
-)
+![Final Commit History Screenshot](https://github.com/user-attachments/assets/d352dc97-081e-4859-bce2-202875eb275f)
 
 ```text
 feat: add watchlist model and endpoint
