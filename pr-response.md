@@ -102,16 +102,29 @@ Final Submission Instructions (Create Your Pull Request)
 This link takes you to the GitHub Pull Request creation page. It will merge your feature/watchlist branch into main.
 How to finalize and submit your PR:
 
-Review the Changes
-Carefully check the list of commits and the file diff shown on the page. Ensure all changes look correct before proceeding.
-Create the Pull Request
-Click the green "Create pull request" button.
-Fill in the PR Details
-Title: Use a clear title such as feat: add watchlist feature
-Description: Paste the PR Description section from your pr-response.md file (the part starting with "Watchlist Feature"). This gives reviewers a complete summary of the changes, design decisions, and testing steps.
+## Final Commit History
 
-Submit
-Click "Create pull request" to officially submit your work.
+The final commit history was reviewed and organized to keep each change focused, descriptive, and aligned with conventional commit standards.
+## Final Submission Instructions (Create Your Pull Request)
 
-Once submitted, your Pull Request will be ready for review.
-Great job completing the Watchlist feature and all the required steps! 🚀
+The Pull Request will merge the `feature/watchlist` branch into `main`.
+
+### Review the Changes
+
+Before submitting the Pull Request:
+
+- Review the list of commits to ensure the commit history is clean and follows conventional commit standards.
+- Review the file diff to confirm all watchlist changes are correct.
+- Verify that all tests pass and the watchlist functionality works as expected.
+
+![Pull Request Commit History](https://github.com/user-attachments/assets/b183f001-b213-4618-befa-e135a913e3ae)
+
+### Create the Pull Request
+
+1. Click the green **"Create pull request"** button.
+
+2. Fill in the PR details:
+
+**Title:**
+```text
+feat: add watchlist feature
