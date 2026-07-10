@@ -97,34 +97,14 @@ Remove a film:
 All functionality works as expected.
 
 Copy the content inside the code block into your file. It’s detailed, professional, and well-structured. Ready to commit!
-
-Final Submission Instructions (Create Your Pull Request)
-This link takes you to the GitHub Pull Request creation page. It will merge your feature/watchlist branch into main.
-How to finalize and submit your PR:
-
 ## Final Commit History
 
 The final commit history was reviewed and organized to keep each change focused, descriptive, and aligned with conventional commit standards.
-## Final Submission Instructions (Create Your Pull Request)
 
-The Pull Request will merge the `feature/watchlist` branch into `main`.
-
-### Review the Changes
-
-Before submitting the Pull Request:
-
-- Review the list of commits to ensure the commit history is clean and follows conventional commit standards.
-- Review the file diff to confirm all watchlist changes are correct.
-- Verify that all tests pass and the watchlist functionality works as expected.
-
-![Pull Request Commit History](https://github.com/user-attachments/assets/b183f001-b213-4618-befa-e135a913e3ae)
-
-### Create the Pull Request
-
-1. Click the green **"Create pull request"** button.
-
-2. Fill in the PR details:
-
-**Title:**
 ```text
-feat: add watchlist feature
+feat: add watchlist model and endpoint
+fix: rename save_to_watchlist to add_to_watchlist
+fix: add deduplication check
+fix: update WatchlistEntry film_id to UUID
+test: add watchlist test
+docs: add pr-response.md
